@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfsvc", "dfsvc\dfsvc.csproj", "{F775828A-E856-4F1A-B9C4-F9A57401C5F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1844436-B0CC-4D01-BCE2-AA72D327A443}"
+	ProjectSection(SolutionItems) = preProject
+		Build\ClickOnceProxySettings.xml = Build\ClickOnceProxySettings.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		netfx2-Release|Any CPU = netfx2-Release|Any CPU
+		netfx4-Release|Any CPU = netfx4-Release|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.Debug|Any CPU.ActiveCfg = netfx4-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.Debug|Any CPU.Build.0 = netfx4-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.netfx2-Release|Any CPU.ActiveCfg = netfx2-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.netfx2-Release|Any CPU.Build.0 = netfx2-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.netfx4-Release|Any CPU.ActiveCfg = netfx4-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.netfx4-Release|Any CPU.Build.0 = netfx4-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.Release|Any CPU.ActiveCfg = netfx4-Release|Any CPU
+		{F775828A-E856-4F1A-B9C4-F9A57401C5F6}.Release|Any CPU.Build.0 = netfx4-Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
